@@ -2,8 +2,8 @@ Description of work for team members:
 
 Qian Sun
 	Related assigment work files:
-	COVIDProject-QianSun.ipynb
-	PPT-QianSun.pptx
+	1.COVIDProject-QianSun.ipynb
+	2.PPT-QianSun.pptx
 	
 	Assigments:
 	1.  Identify most popular trials by enrollment and provide analysis
@@ -13,8 +13,8 @@ Qian Sun
 
 Mario Shields
 	Related assigment work files:
-	COVIDProjectMario.ipynb
-	COVIDprojectMarioppt.pptx
+	1.COVIDProjectMario.ipynb
+	2.COVIDprojectMarioppt.pptx
 	
 	Assigments:
 	1.  Breakdown of trials by sponsor (and sponsor type).
@@ -23,8 +23,8 @@ Mario Shields
 	
 Pamela Schau
 	Related assigment work files:
-	Covid Enrollment Bar Chart-Pamela.ipynb
-	Covid Trial Length Bar Chart-Pamela .ipynb
+	1.Covid Enrollment Bar Chart-Pamela.ipynb
+	2.Covid Trial Length Bar Chart-Pamela .ipynb
 	
 	Assigments:
 	1.  Team project background introduction
@@ -33,8 +33,8 @@ Pamela Schau
 	
 Abel Rodriguez
 	Related assigment work files:
-	COVIDProject_Abel.ipynb
-	PPT-AbelR.pptx
+	1.COVIDProject_Abel.ipynb
+	2.PPT-AbelR.pptx
 	
 	Assigments:
 	1.  Present number of studies conducted during the period of study
@@ -42,8 +42,8 @@ Abel Rodriguez
 
 Mohamed Aziz
 	Related assigment work files:
-	covid_Mohamed.ipynb
-	COVID-19 CLINICAL TRIAL Mohamed copy.pptx
+	1.covid_Mohamed.ipynb
+	2.COVID-19 CLINICAL TRIAL Mohamed copy.pptx
 	
 	Assigments:
 	1.  Compare studies based on phases.
