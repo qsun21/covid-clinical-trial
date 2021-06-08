@@ -38,7 +38,7 @@ Pamela Schau
 Abel Rodriguez
 	
 	Related assigment work files:
-	1.COVIDProject_Abel.ipynb
+	COVIDProject_Abel.ipynb
 	
 	
 	Assigments:
@@ -48,7 +48,7 @@ Abel Rodriguez
 Mohamed Aziz
 	
 	Related assigment work files:
-	1.covid_Mohamed.ipynb
+	covid_Mohamed.ipynb
 	
 	Assigments:
 	1.  Compare studies based on phases.
