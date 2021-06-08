@@ -19,7 +19,8 @@ Mario Shields
 	Assigments:
 	1.  Breakdown of trials by sponsor (and sponsor type).
 	2.  Breakdown by enrollment and country.  Where were most trials conducted?
-	3.  Team conclusions
+	3.  finalize Team conclusions
+	4.  finalize PPT slides 
 	
 Pamela Schau
 	Related assigment work files:
