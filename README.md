@@ -67,4 +67,7 @@ Web resource:
 https://clinicaltrials.gov/ct2/results?cond=COVID-19
 
 Final project PPT: 
+
+Related assigment work files:
+COVID-19 CLINICAL TRIAL-FINAL.pptx
 https://drive.google.com/drive/folders/1Ro1eSvHJG0b9P0g_LGPy_D2hs71kyJI4
